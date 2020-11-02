@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smd-arch-plank-themes
+Credit: https://github.com/arcolinux/
